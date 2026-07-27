@@ -59,6 +59,12 @@ The project includes:
 - Pivot Tables
 - Dashboard Visualization
 
+### Sources
+- Osang's Rice Business daily sales receipts
+- Inventory and procurement records
+- Delivery and restocking logs
+- Business pricing records
+
 ---
 
 # Methodology
